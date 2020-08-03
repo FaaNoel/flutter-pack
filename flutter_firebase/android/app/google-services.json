@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071902466805",
+    "firebase_url": "https://evankhell-omega.firebaseio.com",
+    "project_id": "evankhell-omega",
+    "storage_bucket": "evankhell-omega.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071902466805:android:043c59c3e70d70aedd5bbc",
+        "android_client_info": {
+          "package_name": "com.vielnoel.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071902466805-49bko9ms26k8hrbhbq4qh6of0uvmlilf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtLmM8QYJL1aMqAfqS8Qy0OS88x-5UkqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071902466805-49bko9ms26k8hrbhbq4qh6of0uvmlilf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
